@@ -1,6 +1,6 @@
-# MI-GNAN
+# AMIGA
 
-Standalone MI-GNAN implementation:
+Standalone AMIGA implementation:
 
 ```text
 score(G) = intercept + sum_over_nodes(F + S + A * B)
