@@ -1,0 +1,10 @@
+torch
+torch-geometric
+igraph
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib
+networkx
+ipykernel
